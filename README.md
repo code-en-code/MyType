@@ -2,7 +2,7 @@
 Library for working with data type checking.
 
 ## Installation 
-Installation is done using the [`boss install`](https://github.com/code-en-code/MyType) command:
+Installation is done using the [`boss install`](https://github.com/HashLoad/boss) command:
 ``` sh
 boss install https://github.com/code-en-code/MyType
 ```
