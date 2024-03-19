@@ -3009,7 +3009,7 @@ begin
       LCest := LCest.PadLeft(7, '0');
       Result := Copy(LCest, 1,  2) + '.' +
                 Copy(LCest, 3,  3) + '.' +
-                Copy(LCest, 5,  2);
+                Copy(LCest, 6,  2);
     end
     else
       Result := LCest;
