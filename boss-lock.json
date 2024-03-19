@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2024-03-19T00:15:49.3686716-03:00",
+	"installedModules": {
+		"https://github.com/code-en-code/mystring": {
+			"name": "mystring",
+			"version": "v1.0.0",
+			"hash": "2cf2a4944d5a719ed2abb2b4a9eb57c6",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
