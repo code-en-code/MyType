@@ -4,8 +4,8 @@
 	"installedModules": {
 		"https://github.com/code-en-code/mystring": {
 			"name": "mystring",
-			"version": "v1.0.0",
-			"hash": "2cf2a4944d5a719ed2abb2b4a9eb57c6",
+			"version": "1.0.1",
+			"hash": "e2995e55b9e5d026ee0e580860ed3bc5",
 			"artifacts": {},
 			"failed": false,
 			"changed": false

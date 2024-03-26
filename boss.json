@@ -1,11 +1,11 @@
 {
 	"name": "mytype",
-	"description": "https://github.com/code-en-code/MyType",
+	"description": "Library for working with data type checking.",
 	"version": "1.0.0",
-	"homepage": "Library for working with data type checking.",
+	"homepage": "https://github.com/code-en-code/MyType",
 	"mainsrc": "/src",
 	"projects": [],
 	"dependencies": {
-		"https://github.com/code-en-code/mystring": "^v1.0.0"
+		"https://github.com/code-en-code/mystring": "^v1.0.1"
 	}
 }
